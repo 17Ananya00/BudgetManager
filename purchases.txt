@@ -1,0 +1,2 @@
+Food: MILK $5.99
+Balance: 994.01
